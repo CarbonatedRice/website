@@ -1,0 +1,33 @@
+html {
+    font-size: 15px;
+    font-family: 'Chivo Mono', monospace;
+    background-color: #00004d;
+
+}
+h1 {
+    color: white;
+    font-size: 100px;
+    text-align: center;
+    margin: 0 auto;
+    text-shadow: 1px 1px 1px blue;
+}
+p, li, a {
+    color: white;
+    text-align:center;
+    font-size: 30px;
+    line-height: 2;
+    letter-spacing: -0.25px;
+}
+body {
+width: 600px;
+margin: 0 auto;
+background-color: #ffa64d;
+padding: 0 20px 20px 20px;
+border: 5px dotted cyan;   
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 550px;
+    height: 100px;
+}
